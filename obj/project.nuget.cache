@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gxL3NyO8oxfoiSiR8Eknm8EnjM80JKYf06kwLz6GmdL4YMt2V1ml9sArbIl9LgYJhesxPtKnkENep+2eJiDNqg==",
+  "success": true,
+  "projectFilePath": "C:\\programing\\projects\\Buzz-Submittable-Task\\task 3\\task 3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brandon's PC\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
